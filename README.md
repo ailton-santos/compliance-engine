@@ -7,7 +7,7 @@ Specialized framework developed in **TypeScript** to bridge the gap between admi
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Open_Source-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![USJT](https://img.shields.io/badge/Research-USJT-blue?style=for-the-badge)](https://www.usjt.br/)
+
 [![ODS 8](https://img.shields.io/badge/SDG-8_Decent_Work-A21942?style=for-the-badge)](https://sdgs.un.org/goals/goal8)
 [![ODS 9](https://img.shields.io/badge/SDG-9_Innovation-orange?style=for-the-badge)](https://sdgs.un.org/goals/goal9)
 [![ODS 16](https://img.shields.io/badge/SDG-16_Justice-00689D?style=for-the-badge)](https://sdgs.un.org/goals/goal16)
